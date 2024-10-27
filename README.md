@@ -24,4 +24,4 @@ node age.js
 ```
 ## [◉°] ScreenShot
 
-<img src="Asset/Screenshot 2024-10-28 at 02.53.25.png">
+<img src="Asset/Screenshot 2024-10-28 at 02.53.25.png" height=680  widht=700>
